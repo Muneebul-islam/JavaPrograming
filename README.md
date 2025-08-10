@@ -1,3 +1,1 @@
-# JavaPrograming
-
-.......
+Basic java programming
